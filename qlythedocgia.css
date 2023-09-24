@@ -25,6 +25,8 @@ table {
 
 td {
     padding: 30px;
-    border-style: outset;
-    border-radius: 0.5px;
+}
+
+tr {
+    border-bottom: 7px solid #dddddd;
 }
